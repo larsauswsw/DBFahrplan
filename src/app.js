@@ -4,6 +4,11 @@
  * This is where you write your app.
  */
 
+Pebble.addEventListener('showConfiguration', function(e) {
+  // Show config page
+  Pebble.openURL('http://www.lars.is/pebble');
+});
+
 var UI = require('ui');
 var Vector2 = require('vector2');
 
