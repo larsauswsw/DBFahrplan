@@ -1,9 +1,11 @@
 {
     "appKeys": {},
     "capabilities": [
-        ""
+        "location",
+        "configurable",
+        "health"
     ],
-    "companyName": "larsauswsw@gmail.com",
+    "companyName": "larsauswsw",
     "longName": "DB Fahrplan",
     "projectType": "pebblejs",
     "resources": {
