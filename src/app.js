@@ -5,7 +5,7 @@
  */
 
 Pebble.addEventListener('showConfiguration', function(e) {
-  var url = 'https://www.lars.is/pebble/index.html';
+  var url = 'http://www.lars.is/pebble/index.html';
   console.log('Showing configuration page: ' + url);
   Pebble.openURL(url);
 });
