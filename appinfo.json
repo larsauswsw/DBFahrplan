@@ -11,7 +11,7 @@
     "resources": {
         "media": [
             {
-                "file": "images/menu_icon.png",
+                "file": "images/menu.bmp",
                 "name": "IMAGE_MENU_ICON",
                 "type": "bitmap"
             },
