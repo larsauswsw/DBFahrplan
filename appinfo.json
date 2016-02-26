@@ -12,7 +12,6 @@
         "media": [
             {
                 "file": "images/menu_icon.png",
-                "menuIcon": true,
                 "name": "IMAGE_MENU_ICON",
                 "type": "bitmap"
             },
@@ -30,6 +29,12 @@
                 "file": "fonts/UbuntuMono-Regular.ttf",
                 "name": "MONO_FONT_14",
                 "type": "font"
+            },
+            {
+                "file": "images/menu.bmp",
+                "menuIcon": true,
+                "name": "IMAGES_MENU_BMP",
+                "type": "bitmap"
             }
         ]
     },
